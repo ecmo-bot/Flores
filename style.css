@@ -54,7 +54,7 @@ body {
     height: 50px;
     border-radius: 50%;
     
-    background: radial-gradient(circle, #000, #ff5e00, #000);
+    background: radial-gradient(circle, #000, #a50226, #000);
   
     z-index: 4;
   
@@ -72,9 +72,9 @@ body {
     height: 30px;
     border-radius: 50%;
   
-    background: radial-gradient(circle, #ff5e00, #ffbb00);
+    background: radial-gradient(circle, #a50226, #e9236f);
   
-    filter: drop-shadow(0 0 5px #e05200);
+    filter: drop-shadow(0 0 5px #a50226);
   }
   
   .Petal1.p1 {
@@ -99,9 +99,9 @@ body {
     height: 40px;
     border-radius: 50%;
   
-    background: radial-gradient(circle, #ff5e00, #fbd702);
+    background: radial-gradient(circle, #a50226, #e9236f);
   
-    filter: drop-shadow(0 0 5px #e05200);
+    filter: drop-shadow(0 0 5px #a50226);
   }
   
   .Petal2.p1 {
@@ -127,9 +127,9 @@ body {
     height: 40px;
     border-radius: 50%;
   
-    background: radial-gradient(circle, #ff5e00, #fbd702);
+    background: radial-gradient(circle, #a50226, #e9236f);
   
-    filter: drop-shadow(0 0 2px #fbd702);
+    filter: drop-shadow(0 0 2px #e9236f);
   }
   
   .Petal3.p1 {
